@@ -5,7 +5,7 @@ import ListItem from "./components/ListItem";
 import ListItem1 from "./components/ListItem1";
 import MyBook from "./components/MyBook";
 
-function App1() {
+const App1 = () => {
   const hobbies = ["reading", "travelling", "painting", "skiing"];
   const purchases = ["shoes", "bag", "hat", "shirt"];
   const bookSeries = [

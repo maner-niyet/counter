@@ -1,4 +1,4 @@
-function List (props) {
+const List = (props) => {
     return (
         <ul>
             {
